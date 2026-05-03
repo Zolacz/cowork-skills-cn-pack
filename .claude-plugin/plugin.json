@@ -1,0 +1,20 @@
+{
+  "name": "cowork-skills-cn-pack",
+  "version": "0.1.0",
+  "description": "面向中文开发者的 Cowork × Claude Code 生产力 Skill 套装：5 个开箱即用的本地化 skill，覆盖 PR 评审、论文起草、文档同步、数据治理、TTS 输出。",
+  "author": {
+    "name": "Zola",
+    "email": "zolaalo688@gmail.com"
+  },
+  "homepage": "https://github.com/zola/cowork-skills-cn-pack",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "cowork",
+    "skills",
+    "agent",
+    "chinese",
+    "mimo",
+    "xiaomi"
+  ]
+}
