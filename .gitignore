@@ -1,22 +1,17 @@
-# Python
+# 申请文案 — 不进公开仓库
+APPLICATION.md
+Q04_ANSWER.md
+
+# python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
-.pytest_cache/
+*.pyc
+.venv/
+.papers/
 
-# macOS
+# OS
 .DS_Store
+Thumbs.db
 
-# IDE
+# editor
 .vscode/
 .idea/
-*.swp
-
-# Env
-.env
-.env.local
-venv/
-.venv/
