@@ -63,7 +63,7 @@ cowork-skills-cn-pack/
 
 ```bash
 # 克隆仓库到本地
-git clone https://github.com/zola/cowork-skills-cn-pack.git
+git clone https://github.com/Zolacz/cowork-skills-cn-pack.git
 cd cowork-skills-cn-pack
 
 # 一键安装（自动检测 Cowork 还是 Claude Code 环境）
